@@ -18,8 +18,7 @@
     "json-promise": "^1.1.8",
     "mkdirp": "^0.5.0",
     "optimist": "^0.6.1",
-    "pretty-data": "^0.40.0",
-    "request": "^2.81.0"
+    "pretty-data": "^0.40.0"
   },
   "devDependencies": {
     "chai": "^1.9.2",
